@@ -97,7 +97,7 @@ void fetchData() {
 
         scrollText = "Absentees: " + String(absentees) +
                      "  |  Projects: " + String(projects) +
-                     "  |  Best: " + String(performer) + "     ";
+                     "  |  Best Performer: " + String(performer) + "     ";
 
         int16_t x1, y1;
         uint16_t w, h;
