@@ -10,9 +10,9 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 // WiFi credentials
-const char* ssid = "wifi";
-const char* password = "12345678";
-const String serverName = "http://192.168.19.64:5000/api/data";
+const char* ssid = "wifi";  //update this with your ssid
+const char* password = "12345678";  //update this with your wifi password
+const String serverName = "http://192.xxx.xx.xx:xxxx/api/data";  //update this with your ip
 
 // RGB LED pins
 #define RED_PIN 14
