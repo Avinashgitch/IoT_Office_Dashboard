@@ -1,4 +1,4 @@
-# IoT Office Dashboard
+# IoT Office Dashboard 
 
 This project is an **IoT-based smart dashboard** that displays real-time office activity using an **ESP32 microcontroller**, a **0.96" OLED display**, and an **HW-478 RGB LED module**. The goal is to present attendance and team performance data visually in a compact, ambient format for quick daily insight in an office setting.  
 
