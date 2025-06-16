@@ -50,6 +50,11 @@ Data is entered through a web interface and a Flask-based Python backend collect
 | OLED - GND      | GND            | Ground                    |
 
 
+## Wiring Diagram
+
+![Wiring Diagram](wiring_diagram.png)
+
+
 ## Backend Tech
 
 - **Python 3** + **Flask**
